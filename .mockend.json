@@ -4,8 +4,8 @@
       "items": 500
     },
     "Status": { "string": ["Fail","Pass"]},
-    "TopEvent": {"loremWords": { "minLength": 5, "maxLength": 20}},
-    "ControlName": {"loremWords": {"minLength": 5, "maxLength": 20}},
+    "TopEvent": {"loremWords": { "minLength": 10, "maxLength": 20}},
+    "ControlName": {"loremWords": {"minLength": 10, "maxLength": 20}},
     "SensorAlerts": {"int": {"min": 0, "max": 100}},
     "Availability": {"int": {"min": 0, "max": 100}},
     "LastRefreshed": {"dateTime": {"min": "2023-02-28T00:00:00Z", "max": "2023-03-01T23:59:59Z"}},
