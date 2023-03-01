@@ -1,7 +1,7 @@
 {
   "Control": {
     "_": {
-      "items": 500,
+      "items": 500
     },
     "Status": { "string": ["Fail","Pass"]},
     "TopEvent": {"loremWords": { "minLength": 5, "maxLength": 20}},
